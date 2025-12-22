@@ -1,0 +1,7 @@
+[
+    { "clubId": "coding_club", "score": 12 },
+    { "clubId": "robotics_club", "score": 18 },
+    { "clubId": "astronomy_club", "score": 9 },
+    { "clubId": "dance_club", "score": 7 },
+    { "clubId": "game_dev_club", "score": 15 }
+]
