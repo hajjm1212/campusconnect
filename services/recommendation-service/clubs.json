@@ -1,0 +1,33 @@
+[
+  {
+    "id": "coding_club",
+    "name": "Coding Club",
+    "category": "Technology",
+    "description": "Learn programming, web development, and software design."
+  },
+  {
+    "id": "robotics_club",
+    "name": "Robotics Club",
+    "category": "Engineering",
+    "description": "Design and build robots for competitions and education."
+  },
+  {
+    "id": "astronomy_club",
+    "name": "Astronomy Club",
+    "category": "Science",
+    "description": "Explore space, stars, and galaxies through observations and talks."
+  },
+  {
+    "id": "dance_club",
+    "name": "Dance Club",
+    "category": "Arts",
+    "description": "Learn different dance styles and perform in campus events."
+  },
+  {
+    "id": "game_dev_osu",
+    "name": "Game Development Club",
+    "category": "Technology",
+    "description": "Create video games and learn about game programming and design."
+  }
+]
+
